@@ -1,3 +1,7 @@
+<h1 align=center>
+<img src="public/images/logo.svg" width=200>
+</h1>
+
 <h1>
     <img src="apresentacao.gif">
 </h1>
